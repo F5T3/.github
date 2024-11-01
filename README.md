@@ -1,7 +1,10 @@
-# Hey WHOEVER U ARE
-Nice that you are looking at my page, my links and stats are in the description
-## Who am I (F5T3)
-I like to present myself as a Random guy/dude, who likes to code, watch. And do random stuff
+# Hey whoever u are I'm F5T3
+I like to present myself as a Random guy/dude, 
+- who likes to code,
+- watch stuff,
+- do random stupid stuff
+and
+-   most importantly listen to MUSIC (mostly rap)
 
 ## Links
 <div>
